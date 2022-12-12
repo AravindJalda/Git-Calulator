@@ -1,0 +1,8 @@
+zebra
+xerox
+umbrella
+fan
+table
+cat
+dog
+apple
